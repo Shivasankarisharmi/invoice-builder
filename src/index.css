@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  #main-header {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+  }
+
+  #invoice-preview {
+    box-shadow: none !important;
+    border: none !important;
+  }
+}
