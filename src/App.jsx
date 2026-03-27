@@ -122,7 +122,7 @@ function App() {
       <div id="main-header" className="no-print bg-white border-b border-gray-200 px-6 py-4 shadow-sm">
         <div className="max-w-5xl mx-auto w-full flex items-center justify-between">
           <div className="w-24" />
-          <h1 className="text-2xl font-bold text-blue-600">🧾 Invoice Builder</h1>
+          <h1 className="text-2xl font-bold text-blue-600">🧾 Invoice Bee</h1>
           <div className="w-24 flex justify-end">
             <button
               type="button"
