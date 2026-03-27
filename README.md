@@ -2,9 +2,6 @@
 
 A responsive invoice generation application built with React JS that allows users to create and manage invoices dynamically.
 
-## 🔗 Live Demo
-[View Live App](#) 
-
 ## 📌 Features
 
 - 📋 Enter client and business details (name, email, address)
