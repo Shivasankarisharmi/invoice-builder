@@ -38,7 +38,7 @@ A responsive invoice generation application built with React JS that allows user
 ### Installation
 
 1. Clone the repository
-   git clone https://github.com/your-username/invoice-builder.git
+   git clone https://github.com/Shivasankarisharmi/invoice-builder
 
 2. Navigate to the project folder
    cd invoice-builder
@@ -68,6 +68,6 @@ src/
 
 ## 🌐 Deployment
 
-- Frontend deployed on: [Netlify](#)
-- Repository: [GitHub](#)
+- Frontend deployed on: https://invoicebee.netlify.app/
+- Repository: https://github.com/Shivasankarisharmi/invoice-builder
 
